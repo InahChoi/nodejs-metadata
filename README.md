@@ -1,5 +1,5 @@
 # 📝 metadata
-Bring or send meatadata of html
+Bring or send metadata of html
 
 
 ## 🚀 PostMan
